@@ -161,7 +161,7 @@
                                 class="icofont-exchange"></i></i> {{ _lang('Change Password') }}</a>
                         <a class="dropdown-item" href="{{ route('profile.change_swift') }}"><i
                                 class="icofont-refresh"></i></i> {{ _lang('Change Swift Code') }}</a>
-                        <a class="dropdown-item" href="{{ route('profile.change_password') }}"><i
+                        <a class="dropdown-item" href="{{ route('user.notifications') }}"><i
                                 class="icofont-notification"></i></i> {{ _lang('Notification') }}
                             {!! request_count('fdr_requests', true) !!}</a>
                         @if (auth()->user()->user_type == 'admin')
