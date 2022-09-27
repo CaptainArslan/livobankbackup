@@ -8,6 +8,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
+    <!-- bootstrap CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
     <!-- App favicon -->
     <link rel="shortcut icon" href="{{ get_favicon() }}">
 
@@ -161,9 +164,10 @@
                                 class="icofont-exchange"></i></i> {{ _lang('Change Password') }}</a>
                         <a class="dropdown-item" href="{{ route('profile.change_swift') }}"><i
                                 class="icofont-refresh"></i></i> {{ _lang('Change Swift Code') }}</a>
-                        <a class="dropdown-item" href="{{ route('profile.change_password') }}"><i
+                        <a class="dropdown-item" href="{{ route('notification') }}"><i
                                 class="icofont-notification"></i></i> {{ _lang('Notification') }}
                             {!! request_count('fdr_requests', true) !!}</a>
+                           
                         @if (auth()->user()->user_type == 'admin')
                             <a class="dropdown-item" href="{{ route('settings.update_settings') }}"><i
                                     class="icofont-ui-settings"></i> {{ _lang('System Settings') }}</a>
@@ -242,6 +246,9 @@
         <!--End layoutSidenav_content-->
     </div>
     <!--End layoutSidenav-->
+
+    <!-- JS BOOTSTRAP CDN  -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
     <!-- Core Js  -->
     <script src="{{ asset('/backend/assets/js/jquery-3.6.0.min.js') }}"></script>

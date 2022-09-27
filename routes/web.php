@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\Customer\DepositController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\NotificationController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
@@ -41,6 +42,11 @@ Route::middleware(['install'])->group(function () use ($email_verification, $all
                 //Dashboard Deposit
                 Route::get('/deposit', [DepositController::class, 'index']);
             });
+            
+            // Notifications
+            
+            Route::get('Notifications', [App\Http\Controllers\NotificationController::class,'NotificationIndex'])->name('notification');
+            Route::get('Notification/settings' , [App\Http\Controllers\NotificationController::class,'index'])->name('user.notifications');
             //Profile Controller
             Route::get('profile', 'ProfileController@index')->name('profile.index');
             Route::get('profile/edit', 'ProfileController@edit')->name('profile.edit');
