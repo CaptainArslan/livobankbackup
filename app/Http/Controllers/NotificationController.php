@@ -6,8 +6,13 @@ use Illuminate\Http\Request;
 
 class NotificationController extends Controller
 {
+    
     public function index()
     {
         return view('backend.notification.index');
+    }
+    public function NotificationIndex()
+    {
+        return view('backend.notification.notification');
     }
 }

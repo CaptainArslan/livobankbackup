@@ -45,8 +45,8 @@ Route::middleware(['install'])->group(function () use ($email_verification, $all
             
             // Notifications
             
-            Route::get('Notifications', [App\Http\Controllers\NotificationController::class,'index'])->name('user.notifications');
-
+            Route::get('Notifications', [App\Http\Controllers\NotificationController::class,'NotificationIndex'])->name('notification');
+            Route::get('Notification/settings' , [App\Http\Controllers\NotificationController::class,'index'])->name('user.notifications');
             //Profile Controller
             Route::get('profile', 'ProfileController@index')->name('profile.index');
             Route::get('profile/edit', 'ProfileController@edit')->name('profile.edit');
