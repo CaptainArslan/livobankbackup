@@ -18,7 +18,7 @@
                     <tbody>
                         <tr>
                             <td>
-                                <b>Money</b>
+                                <b>MONEY</b>
                             </td>
                         </tr>
                         <tr>
@@ -93,7 +93,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <b>Crypto</b>
+                                <b>CRYPTO</b>
                             </td>
                         </tr>
                         <tr>
@@ -110,6 +110,21 @@
                         <tr>
                             <td>Price Alerts</td>
                         </tr>
+                        <!-- Communications -->
+                        <tr>
+                            <td><b>COMMUNICATIONS FROM VENMO</b></td>
+                        </tr>
+                        <tr>
+                            <td>Discounts and Promotions</td>
+                            <td>
+                                <label class="toggle">
+                                    <input class="toggle-checkbox" type="checkbox">
+                                    <div class="toggle-switch"></div>
+                                    <span class="toggle-label"></span>
+                                </label>
+                            </td>
+                        </tr>
+                        
                     </tbody>
                 </table>
             </div>
@@ -158,7 +173,7 @@
                     <tbody>
                         <tr>
                             <td>
-                                <b>Security</b>
+                                <b>SECURITY</b>
                             </td>
                         </tr>
                         <tr>
@@ -183,7 +198,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <b>Money</b>
+                                <b>MONEY</b>
                             </td>
                         </tr>
                         <tr>
