@@ -8735,20 +8735,20 @@ button.bg-dark:focus {
   padding: 3rem !important;
 }
 
-.pt-5,
+/* .pt-5,
 .py-5 {
   padding-top: 3rem !important;
-}
+} */
 
 .pr-5,
 .px-5 {
   padding-right: 3rem !important;
 }
 
-.pb-5,
+/* .pb-5,
 .py-5 {
   padding-bottom: 3rem !important;
-}
+} */
 
 .pl-5,
 .px-5 {
@@ -12445,13 +12445,13 @@ body {
   border: var(--card-border);
 }
 
-.pb-0, .py-0 {
+/* .pb-0, .py-0 {
   padding-bottom: 0!important;
 }
 
 .pt-0 , .py-0{
   padding-top: 0!important;
-}
+} */
 
 *, :after, :before {
   box-sizing: border-box;
@@ -12763,12 +12763,12 @@ div {
 .up-card, .up-card-footer, .up-card-header, .up-card-section {
   padding: var(--card-padding-y) var(--card-padding-x);
 }
-.pb-20, .py-20 {
+/* .pb-20, .py-20 {
   padding-bottom: 20px!important;
-}
-.pt-20, .py-20 {
+} */
+/* .pt-20, .py-20 {
   padding-top: 20px!important;
-}
+} */
 p {
   margin: 0 0 30px;
   margin: 0 0 var(--ws-lg);

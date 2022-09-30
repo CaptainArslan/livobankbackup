@@ -12,9 +12,87 @@
             Today
         </h4>
     </header>
-    <p data-v-29fcf9b9="" class="py-20">No new notifications.</p>
-    <ul data-v-29fcf9b9="" class="notifications-list pl-0"></ul>
-    <div data-v-29fcf9b9="" class="up-card-section text-center up-loader-container" style="display: none;"><button data-v-29fcf9b9="" class="up-btn up-btn-default up-loader-container m-0">
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <!-- <p data-v-29fcf9b9="" class="py-20">No new notifications.</p> -->
+    <!-- <p data-v-29fcf9b9="" class="py-20"> -->
+    <!-- Notification within Today and Earlier page starts here -->
+    <!-- <ul data-v-29fcf9b9="" class="notifications-list pl-0">
+        <li data-v-29fcf9b9="" class="up-card-section mb-0">
+            <div data-v-499cff5d="" data-v-29fcf9b9="" class="notification-row d-flex">
+                <div data-v-499cff5d="" class="mr-20">
+                </div>
+                <div data-v-499cff5d="" class="notification-content d-block d-md-flex flex-1">
+                    <div data-v-499cff5d="" class="notification-text">
+                        <div data-v-499cff5d="" class="d-inline-block mr-10"> -->
+    <!-- Button for alert -->
+
+    <!-- </div>
+                    </div>
+                </div>
+        </li>
+    </ul> -->
+    <!-- Notification Within Today and Earlier page ends here  -->
+    <!-- </p> -->
+    <!-- <div data-v-29fcf9b9="" class="up-card-section text-center up-loader-container" style="display: none;"><button data-v-29fcf9b9="" class="up-btn up-btn-default up-loader-container m-0">
             View more
         </button>
         <div data-v-29fcf9b9="" role="status" aria-busy="false" aria-label="Section is loading" class="up-loader-overlay">
@@ -22,7 +100,7 @@
                     <circle cx="50" cy="50" r="20" fill="none" stroke-dasharray="1, 200" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4" style="animation: 1.5s ease-in-out 0s infinite normal none running spinnerIconDash;"></circle>
                 </svg></div>
         </div>
-    </div>
+    </div> -->
 </div>
 <!-- Earlier -->
 <div class="pt-3"></div>
@@ -32,6 +110,65 @@
             Earlier
         </h4>
     </header>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div> <div class="alert alert-dismissible fade show" role="alert">
+        <i class="icofont-alarm"></i>
+        You received 10 free Connects for responding to interviews!
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+    <!--     
     <p data-v-29fcf9b9="" class="py-20">No new notifications.</p>
     <ul data-v-29fcf9b9="" class="notifications-list pl-0"></ul>
     <div data-v-29fcf9b9="" class="up-card-section text-center up-loader-container" style="display: none;"><button data-v-29fcf9b9="" class="up-btn up-btn-default up-loader-container m-0">
@@ -42,6 +179,7 @@
                     <circle cx="50" cy="50" r="20" fill="none" stroke-dasharray="1, 200" stroke-linecap="round" stroke-miterlimit="10" stroke-width="4" style="animation: 1.5s ease-in-out 0s infinite normal none running spinnerIconDash;"></circle>
                 </svg></div>
         </div>
-    </div>
+    </div> -->
 </div>
+
 @endsection

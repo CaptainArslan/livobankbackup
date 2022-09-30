@@ -109,6 +109,16 @@
                         <!-- Price Alerts -->
                         <tr>
                             <td>Price Alerts</td>
+                            <!-- <div class="btn-group dropend">
+                                <button type="button" class="dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Price Alerts
+                                </button>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">Menu item</a></li>
+                                    <li><a class="dropdown-item" href="#">Menu item</a></li>
+                                    <li><a class="dropdown-item" href="#">Menu item</a></li>
+                                </ul>
+                            </div> -->
                         </tr>
                         <!-- Communications -->
                         <tr>
@@ -124,7 +134,7 @@
                                 </label>
                             </td>
                         </tr>
-                        
+
                     </tbody>
                 </table>
             </div>
